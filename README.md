@@ -1,5 +1,5 @@
 Здравствуйте
-Вот ссылка на результат работы: https://ponrez.github.io/VELA-test/
+Вот ссылка на результат работы: https://yokatta-l.github.io/VELA-test/
 
 Также можно просто скачать архив с проектом и открыть index.html
 
